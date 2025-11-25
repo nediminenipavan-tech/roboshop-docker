@@ -11,4 +11,4 @@ networks:
    defaults:
      driver: bridge 
      name: roboshop
-     external: false # true if you have created network manually using network network command 
+     external: false # true if you have created network manually using network  command 
